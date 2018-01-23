@@ -24,7 +24,7 @@
   "_resolution": {
     "type": "version",
     "tag": "2.0.1",
-    "commit": "ccb333fc2492386caf729f0706f7b5eee853313b"
+    "commit": "239246f63ec70d3758a1324ac4ddccb13af56461"
   },
   "_source": "https://github.com/Hansel03/backbone-fetch-cache.git",
   "_target": "^2.0.1",
