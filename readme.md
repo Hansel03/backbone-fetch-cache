@@ -47,7 +47,13 @@ requirejs.config({
 If you are using CommonJS modules, install via `npm`:
 
 ```
-npm install backbone-fetch-cache
+npm install backbone-fetch-cache-ibe
+```
+
+If you are using CommonJS modules, install via `bower`:
+
+```
+bower install backbone-fetch-cache-ibe
 ```
 
 then require it in your modules:
