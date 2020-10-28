@@ -1,6 +1,6 @@
 {
-    "name": "@Hansel03/backbone-fetch-cache",
-    "version": "2.0.1",
+    "name": "backbone-fetch-cache-ibe",
+    "version": "2.0.4",
     "author": "MadGlory <hello@madglory.com> (http://madglory.com)",
     "contributors": [
         "Andrew Appleton <hello@floatleft.com>"
@@ -19,6 +19,9 @@
         "fetch",
         "cache"
     ],
+    "publishConfig": {
+        "access": "public"
+    },
     "main": "./backbone.fetch-cache.js",
     "dependencies": {},
     "devDependencies": {
